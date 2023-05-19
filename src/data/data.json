@@ -1,0 +1,69 @@
+{
+  "title": "Hack The Ratio",
+  "logo": "logo.png",
+  "description": "Building the road your business needs to get ahead.",
+  "googleproducts": {
+    "product1": {
+      "productTitle": "Google Merchant Center",
+      "productDescrip": "Google merchant solutions help you reach hundreds of millions of people looking to buy products like yours each day.",
+      "image": "merch.png"
+    },
+    "product2": {
+      "productTitle": "Google Shopping Network",
+      "productDescrip": "Promote your products to shoppers who are looking for what you offer on Google whether they are at home, on mobile, or in-store.",
+      "image": "gshopping.png"
+    },
+    "product3": {
+      "productTitle": "Google Campagins",
+      "productDescrip": "Promote your business on Google's vast network of search results, websites, videos, mobile apps, maps, shopping listings, and more.",
+      "image": "gads.png"
+    },
+    "product4": {
+      "productTitle": "Google Analytics",
+      "productDescrip": "Get insight into every step of your customer’s journey on your website, then use analytics to elevate your impact.",
+      "image": "ga.png"
+    },
+    "product5": {
+      "productTitle": "Google Map and Search",
+      "productDescrip": "Turn people who find you on Google Search and Maps into new customers by reaching them when they are near or searching for your business.",
+      "image": "gsearch.png"
+    },
+    "product6": {
+      "productTitle": "Discovery Campagins",
+      "productDescrip": "Discovery campaigns allows you to share your brand's story with people across Google's feeds when they're open to discovering new products and services.",
+      "image": "gdiscover.png"
+    },
+    "product7": {
+      "productTitle": "Display Campagins",
+      "productDescrip": "With Display Campaigns, you may serve your ads on the Google Display Network, a collection of over two million websites that reach over 90% of Internet users across the globe.",
+      "image": "gdisplay.png"
+    },
+    "product8": {
+      "productTitle": "Remarketing Campagins",
+      "productDescrip": "A Remarketing campaign is another form of online advertising that allows advertisers to show targeted ads to users who've previously visited your website.",
+      "image": "retargeting.png"
+    }
+  },
+  "socialproducts": {
+    "product1": {
+      "productTitle": "Instagram Campagins",
+      "productDescrip": "Instagram campaigns is a way to get more direct with your audience, it's become a great way to promote products and stay connect with your customers. Over 1 billion users.",
+      "image": "products/social/insta.png"
+    },
+    "product2": {
+      "productTitle": "Facebook Campagins",
+      "productDescrip": "Create and run campaigns using simple self-serve tools, and track their performance with easy-to-read reports. More than 2 billion people use facebook.",
+      "image": "products/social/facebook.png"
+    },
+    "product3": {
+      "productTitle": "Youtube Campagins",
+      "productDescrip": "Online video advertising lets you reach potential customers where they're watching. Grow your business with YouTube Ads today. Youtube has over 2 billion active users.",
+      "image": "products/social/youtube.png"
+    },
+    "product4": {
+      "productTitle": "Pinterest Campagins",
+      "productDescrip": "Grow your business with Pinterest ads. Reach 400 million people who use Pinterest every month to discover and buy your products.",
+      "image": "products/social/pin.png"
+    }
+  }
+}

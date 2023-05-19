@@ -1,3 +1,26 @@
+/* ./src/styles/global.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Zen+Old+Mincho&display=swap'); */
+
+/* San Source */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+/* Oswald */
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap'); */
+
+/* Bebas Neue */
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
+
+*, html, body{
+    padding: 0px;
+    margin: 0px;
+}
+
+span{
+    color: black;
+    font-weight: bolder;
+}

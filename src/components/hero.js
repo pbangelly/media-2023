@@ -18,7 +18,7 @@ const Hero = () => (
   <div className="relative bg-white">
     <main className="h-auto py-10 w-auto lg:relative">
       <div className="w-auto px-5 max-w-8xl md:ml-10 md:ml-5 lg:text-left">
-        <div className="md:py-10 md:px-10 lg:ml-0 lg:w-1/2">
+        <div className="md:py-10 md:px-10 lg:ml-10 lg:w-1/2">
           <h1 className="font-sans text-gray-800 text-5xl md:text-8xl tracking-tight">
             <span className="block capitalize text-main md:pt-5 xl:inline">
               Boost your sales with Digital Marketing
@@ -45,7 +45,7 @@ const Hero = () => (
       </div>
       <div className="relative w-full h-64 sm:h-62 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
         <img
-          className="absolute pb-10 inset-0 w-a h-full h-58 object-contain"
+          className="absolute md:p-10 inset-0 w-a h-full h-58 object-contain"
           src={Img}
           alt="image of Google shopping cart"
         />

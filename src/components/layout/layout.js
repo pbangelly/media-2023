@@ -15,9 +15,9 @@ const Layout = ({ children }) => {
   return (
     <div className="bg-white">
       {/* <SEO title="Hack The Ratio digital marketing solutions" /> */}
-      <Nav />
+      {/* <Nav /> */}
       {children}
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }

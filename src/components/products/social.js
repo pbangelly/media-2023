@@ -9,12 +9,12 @@ import pin from "../../images/products/social/pin.png"
 // import tiktok from "../images/products/tiktok.png"
 
 const SocialProd = () => (
-  <div className="bg-gray-900 h-full max-w-full rounded-2xl mx-3 my-10 py-10 sm:max-w-3xl sm:px-6 md:mx-10 lg:px-8 lg:max-w-full">
-    <h1 className="py-5 px-5 font-extrabold text-gray-100 tracking-tight text-center text-3xl md:text-5xl ">
+  <div className="bg-main h-full max-w-full rounded-2xl mx-3 my-10 py-10 sm:max-w-3xl sm:px-6 md:mx-10 lg:px-8 lg:max-w-full">
+    <h1 className="text-white py-5 px-5 font-extrabold tracking-tight text-center text-3xl md:text-5xl ">
       We can also manage Campaign Ads.
     </h1>
-    <div className="grid grid-cols-1 py-5 mx-5 gap-8 sm:grid-cols-2 lg:grid-cols-4 items-end">
-      <div className="">
+    <div className="text-white grid grid-cols-1 py-5 mx-5 gap-8 sm:grid-cols-2 lg:grid-cols-4 items-end">
+      <div>
         <div className="flow-root bg-gray-50 rounded-lg px-6 py-4">
           <div className="-mt-10">
             <div>
@@ -86,7 +86,7 @@ const SocialProd = () => (
         </div>
       </div>
     </div>
-    {/* <a href="https://forms.gle/KYkMR7W9NUCLh4BC8" id="gmerch_button" className="mt-8 w-auto inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-green-500 hover:text-white sm:w-auto">
+    {/* <a href="https://forms.gle/KYkMR7W9NUCLh4BC8" id="gmerch_button" className="mt-8 w-auto inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-main hover:bg-green-500 hover:text-white sm:w-auto">
                 Learn More</a> */}
   </div>
 )

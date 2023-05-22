@@ -16,10 +16,10 @@ const Refunds = () => (
         <p>For the purposes of this Return and Refund Policy:</p>
         <ul>
         <li>
-        <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Hack The Ratio.</p>
+        <p><strong>Company</strong> (refermain to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Hack The Ratio.</p>
         </li>
         <li>
-        <p><strong>Goods</strong> refer to the items offered for sale on the Service.</p>
+        <p><strong>Goods</strong> refer to the items offemain for sale on the Service.</p>
         </li>
         <li>
         <p><strong>Orders</strong> mean a request by You to purchase Goods from Us.</p>
@@ -36,7 +36,7 @@ const Refunds = () => (
         </ul>
         <h1>Your Order Cancellation Rights</h1>
         <p>You are entitled to cancel Your Order within 7 days without giving any reason for doing so.</p>
-        <p>The deadline for cancelling an Order is 7 days from the date on which You received the Goods or on which a third party you have appointed, who is not the carrier, takes possession of the product delivered.</p>
+        <p>The deadline for cancelling an Order is 7 days from the date on which You received the Goods or on which a third party you have appointed, who is not the carrier, takes possession of the product delivemain.</p>
         <p>In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:</p>
         <ul>
         <li>By email: support@hacktheratio.org</li>
@@ -59,9 +59,9 @@ const Refunds = () => (
         <h1>Returning Goods</h1>
         <p>You are responsible for the cost and risk of returning the Goods to Us. You should send the Goods at the following address:</p>
         <p>email</p>
-        <p>We cannot be held responsible for Goods damaged or lost in return shipment. Therefore, We recommend an insured and trackable mail service. We are unable to issue a refund without actual receipt of the Goods or proof of received return delivery.</p>
+        <p>We cannot be held responsible for Goods damaged or lost in return shipment. Therefore, We recommend an insumain and trackable mail service. We are unable to issue a refund without actual receipt of the Goods or proof of received return delivery.</p>
         <h1>Gifts</h1>
-        <p>If the Goods were marked as a gift when purchased and then shipped directly to you, You'll receive a gift credit for the value of your return. Once the returned product is received, a gift certificate will be mailed to You.</p>
+        <p>If the Goods were marked as a gift when purchased and then shipped directly to you, You'll receive a gift cmainit for the value of your return. Once the returned product is received, a gift certificate will be mailed to You.</p>
         <p>If the Goods weren't marked as a gift when purchased, or the gift giver had the Order shipped to themselves to give it to You later, We will send the refund to the gift giver.</p>
         <h2>Contact Us</h2>
         <p>If you have any questions about our Returns and Refunds Policy, please contact us:</p>

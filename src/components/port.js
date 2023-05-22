@@ -6,7 +6,7 @@ import Img3 from "../images/ads/hacktheratio-ad3.png"
 import Img4 from "../images/ads/hacktheratio-ad4.png"
 
 const Port = () => (
-  <section className="bg-red-800 py-20 2xl:py-40">
+  <section className="bg-main py-20 2xl:py-40">
     <div className="container px-4 mx-auto">
       <div className="max-w-4xl mx-auto">
         <div className="w-full text-center mb-14 lg:mb-28">

@@ -23,7 +23,7 @@ const Price = () => (
           </h2>
           <p className="mt-4 text-xl md:text-2xl text-gray-600">
             Promote your products to over 50 countries around the world. <br />
-            {/* <a href="" className="underline text-gray-400 text-sm md:text-lg hover:text-red-500">Learn More</a> */}
+            {/* <a href="" className="underline text-gray-400 text-sm md:text-lg hover:text-main">Learn More</a> */}
           </p>
         </div>
       </div>
@@ -44,7 +44,7 @@ const Price = () => (
               </p>
               <div className="mt-8">
                 <div className="flex items-center">
-                  <h4 className="flex-shrink-0 pr-4 bg-white text-sm tracking-wider font-semibold uppercase text-red-600">
+                  <h4 className="flex-shrink-0 pr-4 bg-white text-sm tracking-wider font-semibold uppercase text-main-600">
                     What's included
                   </h4>
                   <div className="flex-1 border-t-2 border-gray-200"></div>

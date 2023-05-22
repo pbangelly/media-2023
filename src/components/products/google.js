@@ -14,7 +14,7 @@ const GoogleProd = () => (
   // <!-- This example requires Tailwind CSS v2.0+ -->
   <div className="relative bg-white py-5 md:mt-20">
     <div className="text-center mx-auto max-w-lg px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
-      <h2 className="text-base font-semibold tracking-wider text-red-600 uppercase">
+      <h2 className="text-base font-semibold tracking-wider text-main uppercase">
         Digital Solutions
       </h2>
       <p className="mt-2 text-2xl md:text-4xl font-extrabold text-gray-600 tracking-tight">

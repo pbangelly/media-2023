@@ -19,8 +19,8 @@ const Apply = () => (
       <h2 className="text-3xl md:text-6xl font-extrabold text-main">
         <div className="block">Ready to get started?</div>
       </h2>
-      <h2 className="text-center">Hack The Ratio's is a Digital Marketing Agency.</h2>
-      <p className="mt-2 text-sm font-extrabold md:text-2xl leading-6 text-black">
+      {/* <h2 className="text-center">Hack The Ratio's is a Digital Marketing Agency.</h2> */}
+      <p className="text-center mt-5 text-sm md:text-2xl leading-6 text-black mr-20 ml-20">
       We started this mission with the goal to empower people to use powerful systems that will take their businesses to the next level. 
       We specialize in integrating businesses with modern tech tools that will advance their business. 
       We believe that with the right systems in place you can give your business a competitive edge. 

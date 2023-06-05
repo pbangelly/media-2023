@@ -20,7 +20,7 @@ const Apply = () => (
         <div className="block">Ready to get started?</div>
       </h2>
       {/* <h2 className="text-center">Hack The Ratio's is a Digital Marketing Agency.</h2> */}
-      <p className="text-center mt-5 text-sm md:text-2xl leading-6 text-black mr-20 ml-20">
+      <p className="text-center mt-5 text-sm md:text-2xl leading-6 text-black mr-10 ml-10 md:mr-20 md:ml-20">
       We started this mission with the goal to empower people to use powerful systems that will take their businesses to the next level. 
       We specialize in integrating businesses with modern tech tools that will advance their business. 
       We believe that with the right systems in place you can give your business a competitive edge. 
@@ -29,7 +29,7 @@ const Apply = () => (
       We do this by using historic data, testing to place intelligent bidding, and thoughtful data analysis.
       </p>
       <a
-        href="https://us1.list-manage.com/contact-form?u=5df561687a006776cdd704251&form_id=6c0cba3b4d65c084b5f3f312a59ad1d2"
+        href=""
         // onClick={dataSubmit()}
         id="form_button"
         className="mt-8 w-auto inline-flex items-center justify-center px-5 py-3 border border-transparent text-2xl font-large rounded-lg text-white bg-main hover:bg-pink hover:text-white sm:w-auto"

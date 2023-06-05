@@ -8,7 +8,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 // import SEO from "../seo"
-import Nav from "./nav"
+// import Nav from "./nav"
 import Footer from "./footer"
 
 const Layout = ({ children }) => {
@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
       {/* <SEO title="Hack The Ratio digital marketing solutions" /> */}
       {/* <Nav /> */}
       {children}
-      {/* <Footer /> */}
+      <Footer />
     </div>
   )
 }

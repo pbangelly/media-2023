@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import Logo from "../../images/marketing-logo.png"
+import Logo from "../../images/logo.png"
 // import data from "../../data/data.json"
 
 const Nav = () => (

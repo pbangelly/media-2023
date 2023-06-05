@@ -17,7 +17,7 @@ const Hero = () => (
   // <!-- This example requires Tailwind CSS v2.0+ -->
   <div className="relative bg-white">
     <main className="h-auto py-10 w-auto lg:relative">
-      <div className="w-auto px-5 max-w-8xl md:ml-10 md:ml-5 lg:text-left">
+      <div className="min-h-70 w-auto px-5 max-w-8xl md:ml-10 md:ml-5 lg:text-left">
         <div className="md:py-10 md:px-10 lg:ml-10 lg:w-1/2">
           <h1 className="font-sans text-gray-800 text-5xl md:text-8xl tracking-tight">
             <span className="block capitalize text-main md:pt-5 xl:inline">
@@ -33,7 +33,7 @@ const Hero = () => (
           <div className="sm:flex sm:justify-center lg:justify-start">
             <div className="rounded-md shadow" id="hero-button">
               <a
-                href="https://us1.list-manage.com/contact-form?u=5df561687a006776cdd704251&form_id=6c0cba3b4d65c084b5f3f312a59ad1d2"
+                href=""
                 // onClick={dataSubmit()}
                 className="w-full flex items-center justify-center py-3 px-3 md:px-5 md:py-5 md:pb-5 border border-transparent font-sans md:font-medium rounded-md text-white bg-main hover:bg-pink md:text-2xl"
               >

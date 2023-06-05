@@ -170,7 +170,7 @@ const Price = () => (
               <div className="mt-6">
                 <div className="rounded-md shadow" id="second_section_button">
                   <a
-                    href="https://us1.list-manage.com/contact-form?u=5df561687a006776cdd704251&form_id=6c0cba3b4d65c084b5f3f312a59ad1d2"
+                    href=""
                     className="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-green-500"
                   >
                     Start Application

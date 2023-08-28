@@ -20,7 +20,7 @@ const Footer = () => (
 
         <div className="px-5 py-2">
           <Link
-            to="https://us1.list-manage.com/contact-form?u=5df561687a006776cdd704251&form_id=6c0cba3b4d65c084b5f3f312a59ad1d2"
+            to="https://us21.list-manage.com/contact-form?u=84f8aa5d32ce90ea7e09c1e8a&form_id=2bebdc1e862aa512a8399f021368c15e"
             className="text-base text-gray-500 hover:text-gray-900"
           >
             Contact
@@ -81,8 +81,8 @@ const Footer = () => (
         </svg>
       </a>
       </div> */}
-      <p className="text-center text-sm md:text-base text-gray-400">
-        &copy; 2020 Hack The Ratio - All rights reserved.
+      <p className="text-center pt-5 text-sm md:text-base text-gray-400">
+        &copy; <a href="/">2020 Hack The Ratio - All rights reserved.</a>
       </p>
     </div>
   </footer>

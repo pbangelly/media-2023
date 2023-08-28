@@ -12,7 +12,7 @@ import discovery from "../../images/products/google/gdiscover.png"
 
 const GoogleProd = () => (
   // <!-- This example requires Tailwind CSS v2.0+ -->
-  <div className="relative bg-white py-5 md:mt-20">
+  <div className="relative bg-black py-5 md:mt-20">
     <div className="text-center mx-auto max-w-lg px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
       <h2 className="text-base font-semibold tracking-wider text-main uppercase">
         Digital Solutions
@@ -25,11 +25,11 @@ const GoogleProd = () => (
       </p>
       <div className="mt-12 px-10 py-10">
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
-          <div className="pt-6">
+          {/* <div className="pt-6">
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={merch} />
                   </span>
                 </div>
@@ -41,13 +41,13 @@ const GoogleProd = () => (
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
 
-          <div className="pt-6">
+          {/* <div className="pt-6">
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={gshopping} />
                   </span>
                 </div>
@@ -59,13 +59,13 @@ const GoogleProd = () => (
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="pt-6">
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={gads} />
                   </span>
                 </div>
@@ -79,11 +79,11 @@ const GoogleProd = () => (
             </div>
           </div>
 
-          <div className="pt-6">
+          {/* <div className="pt-6">
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={ga} />
                   </span>
                 </div>
@@ -92,17 +92,17 @@ const GoogleProd = () => (
                 </h3>
                 <p className="mt-5 text-base text-gray-500">
                   {/* Reach your goals with powerful digital analytics.  */}
-                  {data.googleproducts.product4.productDescrip}
-                </p>
+                  {/* {data.googleproducts.product4.productDescrip} */}
+                {/* </p>
               </div>
             </div>
-          </div>
+          </div> */}
 
-          <div className="pt-6">
+          {/* <div className="pt-6">
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={map} />
                   </span>
                 </div>
@@ -114,13 +114,13 @@ const GoogleProd = () => (
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="pt-6">
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={discovery} />
                   </span>
                 </div>
@@ -139,7 +139,7 @@ const GoogleProd = () => (
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={video} />
                   </span>
                 </div>
@@ -157,7 +157,7 @@ const GoogleProd = () => (
             <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
               <div className="-mt-6">
                 <div>
-                  <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+                  <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                     <img src={retarget} />
                   </span>
                 </div>

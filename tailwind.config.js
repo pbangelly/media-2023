@@ -6,12 +6,16 @@ module.exports = {
   ],
   theme: {
     colors: {
-      "main": "#169991",
-      "gold" : "#D7AE5E",
-      "pink" : "#e12a8e",
+      "main":"#020617", //black
+      "red": "#F34348",
       "white": "#f8fafc"
     },
-    extend: {},
+    extend: {
+      maxWidth: {
+        '2/3': '75%',
+      }
+    },
+
   },
   plugins: [],
 }

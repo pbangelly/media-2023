@@ -4,7 +4,7 @@ import Logo from "../../images/logo.png"
 // import data from "../../data/data.json"
 
 const Nav = () => (
-  <div className="bg-white text-center pt-10 mx-5 w-auto">
+  <div className="bg-black text-center pt-10 mx-5 w-auto">
     <Link to="/">
       <div className="flex inline-flex items-center justify-center h-auto w-full">
         <img

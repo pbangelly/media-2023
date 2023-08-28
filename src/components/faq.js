@@ -14,7 +14,7 @@ const Faq = () => (
             <dt className="text-lg leading-6 font-medium text-white">
               Is this service offemain in my country?
             </dt>
-            <dd className="mt-2 text-base text-main-200">
+            <dd className="mt-2 text-base text-white">
               Google shopping is currently avaliable in over 30 countries. Some
               of these countries include Australia, Austria, Belgium, Brazil,
               Canada, the Czech Republic, Denmark, France, Germany, India,
@@ -31,7 +31,7 @@ const Faq = () => (
             <dt className="text-lg leading-6 font-medium text-white">
               Is Google shopping network free?
             </dt>
-            <dd className="mt-2 text-base text-main-100">
+            <dd className="mt-2 text-base text-white">
               As of 2020, Google has made it free to list your products on
               Google shopping network. All you need to do is submit your
               products through the Google Merchant Center and get approved.
@@ -45,7 +45,7 @@ const Faq = () => (
             <dt className="text-lg leading-6 font-medium text-white">
               Are there any seller requirements?
             </dt>
-            <dd className="mt-2 text-base text-main-100">
+            <dd className="mt-2 text-base text-white">
               Yes, there are a few requirements. Your site must have a working
               shopping cart, a footer with return policy, Terms of Service, and
               contact information. Your Shipping fees and return policies must
@@ -60,7 +60,7 @@ const Faq = () => (
             <dt className="text-lg leading-6 font-medium text-white">
               How long does this process take?
             </dt>
-            <dd className="mt-2 text-base text-main-100">
+            <dd className="mt-2 text-base text-white">
               The project time and price depends on the size of the project and
               the time it takes for Google to approve your listing. We will do
               everything in our power to make sure everything is setup correctly

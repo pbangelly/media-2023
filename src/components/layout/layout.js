@@ -13,7 +13,7 @@ import Footer from "./footer"
 
 const Layout = ({ children }) => {
   return (
-    <div className="bg-white">
+    <div className="bg-black">
       {/* <SEO title="Hack The Ratio digital marketing solutions" /> */}
       {/* <Nav /> */}
       {children}

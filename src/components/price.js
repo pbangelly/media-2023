@@ -28,12 +28,12 @@ const Price = () => (
         </div>
       </div>
     </div>
-    <div className="mt-8 bg-white pb-16 sm:mt-12 sm:pb-20 lg:pb-28">
+    <div className="mt-8 bg-black pb-16 sm:mt-12 sm:pb-20 lg:pb-28">
       <div className="relative">
         <div className="absolute inset-0 h-1/2 bg-gray-100"></div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-lg mx-auto rounded-lg shadow-lg overflow-hidden lg:max-w-none lg:flex">
-            <div className="flex-1 bg-white px-6 py-8 lg:p-12">
+            <div className="flex-1 bg-black px-6 py-8 lg:p-12">
               {/* <h3 className="text-3xl font-extrabold text-gray-900 sm:text-2xl">
                 Sell your products on Google Shopping Network
               </h3> */}
@@ -44,7 +44,7 @@ const Price = () => (
               </p>
               <div className="mt-8">
                 <div className="flex items-center">
-                  <h4 className="flex-shrink-0 pr-4 bg-white text-sm tracking-wider font-semibold uppercase text-main-600">
+                  <h4 className="flex-shrink-0 pr-4 bg-black text-sm tracking-wider font-semibold uppercase text-main-600">
                     What's included
                   </h4>
                   <div className="flex-1 border-t-2 border-gray-200"></div>
@@ -171,7 +171,7 @@ const Price = () => (
                 <div className="rounded-md shadow" id="second_section_button">
                   <a
                     href=""
-                    className="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-green-500"
+                    className="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-black bg-gray-800 hover:bg-green-500"
                   >
                     Start Application
                   </a>

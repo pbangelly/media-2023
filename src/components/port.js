@@ -11,7 +11,7 @@ const Port = () => (
       <div className="max-w-4xl mx-auto">
         <div className="w-full text-center mb-14 lg:mb-28">
           {/* <span className="text-lg text-blue-400 font-semibold">Our Works</span> */}
-          <h2 className="mt-8 text-5xl text-white font-sans font-heading capitalize">
+          <h2 className="mt-8 text-7xl text-white font-sans font-heading capitalize">
             Clean and clear designs
           </h2>
         </div>

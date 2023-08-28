@@ -10,15 +10,15 @@ import pin from "../../images/products/social/pin.png"
 
 const SocialProd = () => (
   <div className="bg-main h-full max-w-full rounded-2xl mx-3 my-10 py-10 sm:max-w-3xl sm:px-6 md:mx-10 lg:px-8 lg:max-w-full">
-    <h1 className="text-white py-5 px-5 font-extrabold tracking-tight text-center text-3xl md:text-5xl ">
+    <h1 className="text-black py-5 px-5 font-extrabold tracking-tight text-center text-3xl md:text-5xl ">
       We can also manage Campaign Ads.
     </h1>
-    <div className="text-white grid grid-cols-1 py-5 mx-5 gap-8 sm:grid-cols-2 lg:grid-cols-4 items-end">
+    <div className="text-black grid grid-cols-1 py-5 mx-5 gap-8 sm:grid-cols-2 lg:grid-cols-4 items-end">
       <div>
         <div className="flow-root bg-gray-50 rounded-lg px-6 py-4">
           <div className="-mt-10">
             <div>
-              <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+              <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                 <img className="h-5" src={ig} />
               </span>
             </div>
@@ -36,7 +36,7 @@ const SocialProd = () => (
         <div className="flow-root bg-gray-50 rounded-lg px-6 pb-5">
           <div className="-mt-5">
             <div>
-              <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+              <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                 <img className="h-5" src={fb} />
               </span>
             </div>
@@ -54,7 +54,7 @@ const SocialProd = () => (
         <div className="flow-root bg-gray-50 rounded-lg px-6 pb-5">
           <div className="-mt-5">
             <div>
-              <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+              <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                 <img className="h-5" src={yt} />
               </span>
             </div>
@@ -72,7 +72,7 @@ const SocialProd = () => (
         <div className="flow-root bg-gray-50 rounded-lg px-6 pb-5">
           <div className="-mt-5">
             <div>
-              <span className="inline-flex items-center justify-center p-3 bg-white rounded-md shadow-lg">
+              <span className="inline-flex items-center justify-center p-3 bg-black rounded-md shadow-lg">
                 <img className="h-5" src={pin} />
               </span>
             </div>
@@ -86,7 +86,7 @@ const SocialProd = () => (
         </div>
       </div>
     </div>
-    {/* <a href="https://forms.gle/KYkMR7W9NUCLh4BC8" id="gmerch_button" className="mt-8 w-auto inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-main hover:bg-green-500 hover:text-white sm:w-auto">
+    {/* <a href="https://forms.gle/KYkMR7W9NUCLh4BC8" id="gmerch_button" className="mt-8 w-auto inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-black bg-main hover:bg-green-500 hover:text-black sm:w-auto">
                 Learn More</a> */}
   </div>
 )

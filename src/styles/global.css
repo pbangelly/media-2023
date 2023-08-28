@@ -18,9 +18,14 @@
 *, html, body{
     padding: 0px;
     margin: 0px;
+    color: black;
 }
 
 span{
+    color: black;
+    font-weight: bolder;
+}
+blockquote{
     color: black;
     font-weight: bolder;
 }

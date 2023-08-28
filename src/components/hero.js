@@ -30,7 +30,7 @@ const Hero = () => (
           <div className="sm:flex sm:justify-center lg:justify-start">
             <div className="rounded-md shadow" id="hero-button">
               <a
-                href=""
+                href="https://us21.list-manage.com/contact-form?u=84f8aa5d32ce90ea7e09c1e8a&form_id=2bebdc1e862aa512a8399f021368c15e"
                 // onClick={dataSubmit()}
                 className="w-full flex items-center justify-center py-3 px-3 md:px-5 md:py-5 md:pb-5 border border-transparent font-sans md:font-medium rounded-md text-white bg-main hover:bg-red md:text-2xl"
               >
